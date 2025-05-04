@@ -6,8 +6,6 @@ Welcome to my **GitHub** profile. I'm a passionate developer with a love for bui
 
 ## 🚀 **About Me**
 
-![Coding GIF](https://media.giphy.com/media/1wtQqopxRWfW8/giphy.gif)
-
 - 💻 **Front-End Developer** | 🛠️ **Problem Solver**
 - 🎓 **Currently learning**: JavaScript, TypeScript, React
 - 🎯 Focused on **building beautiful websites** and **learning javascript in depth**.
@@ -27,6 +25,7 @@ Welcome to my **GitHub** profile. I'm a passionate developer with a love for bui
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
+
 ## 🧰 Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -43,10 +42,12 @@ Welcome to my **GitHub** profile. I'm a passionate developer with a love for bui
 > This is a front-end clone of the popular restaurant chain Salt’n Pepper, built using HTML, CSS, and JavaScript. The website replicates the look and feel of the original restaurant’s site, showcasing its menu, about section, franchise details, and locations.
 > The design is responsive, clean, and professional — ideal for practicing layout skills and UI/UX principles. It's a great beginner-to-intermediate level project for those learning web development.
 
-🔗 Live Preview: professional-web-salt-an-pepper-clone.netlify.app
+🔗 Live Preview: (https://professional-web-salt-an-pepper-clone.netlify.app)
 
-### **2. [E-Commerce Website](#)**
+### **2. OLX Clone Website
 > This project is a front-end replica of the popular online classifieds platform OLX, developed using HTML, CSS, BootStrap and JavaScript. It serves as a practical demonstration of building a responsive, user-friendly marketplace interface.
+
+
 >  🔧 Key Features
 Responsive Design: Optimized for both desktop and mobile devices.
 
@@ -58,7 +59,7 @@ Product Listings: View detailed listings with images, prices, and descriptions.
 
 User Interface: Clean, modern layout inspired by OLX's original design.
 
-🔗 Live Preview: professional-web-olx-clone.netlify.app
+🔗 Live Preview: (https://professional-web-olx-clone.netlify.app)
 
 ---
 
@@ -76,23 +77,5 @@ User Interface: Clean, modern layout inspired by OLX's original design.
 ---
 
 ## 🌱 **Fun Fact** 😄
-
-![Fun GIF](https://media.giphy.com/media/3o6Zt1OzyY9ZwrhJQQ/giphy.gif)  
+  
 I believe **coding** is like a puzzle — you keep solving it, and every small piece brings you closer to the bigger picture!
-
-## Hi there 👋
-
-<!--
-**Abdullah-Ishtiaq69/Abdullah-Ishtiaq69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
