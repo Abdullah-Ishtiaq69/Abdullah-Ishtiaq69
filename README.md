@@ -71,7 +71,7 @@ User Interface: Clean, modern layout inspired by OLX's original design.
 
 ## 📬 **Let's Connect!** 🔗
 
-- 📧 **Email**: [abdullah@example.com](mailto:abdullahishtiaq335@gmail.com)
+- 📧 **Email**: [abdullahishtiaq335@gmail.com](mailto:abdullahishtiaq335@gmail.com)
 - 💼 **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/abdullahishtiaq](https://www.linkedin.com/in/abdullah-ishtiaq-468667349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
