@@ -10,6 +10,8 @@ Welcome to my **GitHub** profile. I'm a passionate developer with a love for bui
 - 🎓 **Currently learning**: JavaScript, TypeScript, React
 - 🎯 Focused on **building beautiful websites** and **learning javascript in depth**.
 - 🚀 Building cool things one project at a time.
+- 🔥  Portfoilo link ( https://685168ffe5d59affb1e7d422--professional-web-portfolio.netlify.app/ )
+
 
 ---
 
